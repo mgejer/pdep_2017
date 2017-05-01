@@ -34,3 +34,5 @@ losMalditos lista = filter estaMaldito lista
 nombresDeAventureros lista = map nombreAventurero lista
 
 nombresMalditos = nombresDeAventureros.losMalditos
+
+este es un cambio nuevo
